@@ -1,0 +1,12 @@
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\bin\Debug\Nuevo3.exe.config
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\bin\Debug\Nuevo3.exe
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\bin\Debug\Nuevo3.pdb
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.csprojAssemblyReference.cache
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.Properties.Resources.resources
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.csproj.GenerateResource.cache
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.csproj.CoreCompileInputs.cache
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.exe
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.pdb
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.BaseDatos.resources
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.Login.resources
+C:\Users\Cinthia\source\repos\Nuevo3\Nuevo3\obj\Debug\Nuevo3.Inicio.resources
